@@ -1,0 +1,44 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Поставщики</title>
+</head>
+
+<body>
+  <div class="container">
+    <ul class="nav nav-tabs">
+      <li class="active"><a data-toggle="tab" href="#">Поставщики</a></li>
+      <li><a href="supplies.html">Поставки</a></li>
+      <li><a href="shipments.html">Отгрузки</a></li>
+    </ul>
+
+    <h3>Поставщики</h3>
+    <table class="table table-bordered table-striped table-fixed" id="table_agents">
+      <thead>
+        <tr>
+          <th class="text-center" id="id" type="text" prime="true" static="false">ID</th>
+          <th class="text-center" id="name" type="text">Имя поставщика</th>
+          <th>Изменить</th>
+          <th>Удалить</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+  <!-- <div id="table_agents"></div>
+  <div id="table_supplies"></div>
+  <div id="table_shipments"></div> -->
+
+  <script src="vendor/jquery/js/jquery.min.js" charset="utf-8"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+  <script src="vendor/simpletable/js/simpletable.min.js" charset="utf-8"></script>
+  <script src="js/app.js" charset="utf-8"></script>
+</body>
+
+</html>

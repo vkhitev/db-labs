@@ -1,0 +1,25 @@
+{
+  "name": "lab-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vlad Khitev <vkhitev@gmail.com> (https://vk.com/id18315550)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "epilogue": "^0.7.1",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "morgan": "^1.7.0",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

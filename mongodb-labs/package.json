@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Vlad Khitev <vkhitev@gmail.com> (https://vk.com/id18315550)",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.16"
+  }
+}

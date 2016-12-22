@@ -1,0 +1,47 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Лаба 9</title>
+</head>
+
+<body>
+  <div class="container">
+    <ul class="nav nav-tabs">
+      <li><a href="index.html">Поставщики</a></li>
+      <li class="active"><a href="#">Поставки</a></li>
+      <li><a href="shipments.html">Отгрузки</a></li>
+    </ul>
+
+
+    <h3>Поставки</h3>
+    <table class="table table-bordered table-striped table-fixed" id="table_supplies">
+      <thead>
+        <tr>
+          <th class="text-center" id="id" type="text" prime="true" static="false">ID</th>
+          <th class="text-center" id="bill_date" type="text">Дата поставки</th>
+          <th class="text-center" id="beet_supplied" type="number">Свеклы привезено, т</th>
+          <th class="text-center" id="sugar_estimated" type="number">Сахара начислено, т</th>
+          <th class="text-center" id="bagasse_estimated" type="number">Жома начислено, т</th>
+          <th class="text-center" id="agent_id" type="text">Номер поставщика</th>
+          <th>Изменить</th>
+          <th>Удалить</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+
+
+  <script src="vendor/jquery/js/jquery.min.js" charset="utf-8"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+  <script src="vendor/simpletable/js/simpletable.min.js" charset="utf-8"></script>
+  <script src="js/app.js" charset="utf-8"></script>
+</body>
+
+</html>
