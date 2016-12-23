@@ -143,7 +143,7 @@ MongoClient.connect(url, (err, db) => {
       return avgMoneyByKekvs(institutions)
     })
     .then(result => {
-      // console.log(normalizeMoney(result, 'money_avg'))
+      console.log(normalizeMoney(result, 'money_avg'))
       return avgMoneyAndInstitutionsByYear(institutions)
     })
     .then(result => {
