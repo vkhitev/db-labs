@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "checking_date": "2016-07-14",
+    "conclusion": "Висновок 1",
+    "number_post_id": 5,
+    "checking_id": 6,
+    "checking_section_id": 1,
+    "auditor_id": 1
+  },
+  {
+    "id": 2,
+    "checking_date": "2016-07-18",
+    "conclusion": "Висновок 2",
+    "number_post_id": 6,
+    "checking_id": 6,
+    "checking_section_id": 1,
+    "auditor_id": 1
+  },
+  {
+    "id": 3,
+    "checking_date": "2016-07-21",
+    "conclusion": "Висновок 3",
+    "number_post_id": 8,
+    "checking_id": 6,
+    "checking_section_id": 1,
+    "auditor_id": 1
+  },
+  {
+    "id": 4,
+    "checking_date": "2016-08-01",
+    "conclusion": "Висновок 4",
+    "number_post_id": 9,
+    "checking_id": 6,
+    "checking_section_id": 2,
+    "auditor_id": 1
+  },
+  {
+    "id": 5,
+    "checking_date": "2016-08-23",
+    "conclusion": "Висновок 5",
+    "number_post_id": 13,
+    "checking_id": 6,
+    "checking_section_id": 3,
+    "auditor_id": 1
+  },
+  {
+    "id": 6,
+    "checking_date": "2016-08-25",
+    "conclusion": "Висновок 6",
+    "number_post_id": 17,
+    "checking_id": 6,
+    "checking_section_id": 3,
+    "auditor_id": 1
+  },
+  {
+    "id": 7,
+    "checking_date": "2016-08-26",
+    "conclusion": "Висновок 7",
+    "number_post_id": 20,
+    "checking_id": 6,
+    "checking_section_id": 3,
+    "auditor_id": 1
+  },
+  {
+    "id": 8,
+    "checking_date": "2016-09-02",
+    "conclusion": "Висновок 8",
+    "number_post_id": 21,
+    "checking_id": 6,
+    "checking_section_id": 4,
+    "auditor_id": 1
+  },
+  {
+    "id": 9,
+    "checking_date": "2016-09-08",
+    "conclusion": "Висновок 9",
+    "number_post_id": 22,
+    "checking_id": 6,
+    "checking_section_id": 4,
+    "auditor_id": 1
+  },
+  {
+    "id": 10,
+    "checking_date": "2016-09-12",
+    "conclusion": "Висновок 10",
+    "number_post_id": 27,
+    "checking_id": 6,
+    "checking_section_id": 4,
+    "auditor_id": 1
+  },
+  {
+    "id": 11,
+    "checking_date": "2016-10-02",
+    "conclusion": "Висновок 11",
+    "number_post_id": 29,
+    "checking_id": 6,
+    "checking_section_id": 5,
+    "auditor_id": 1
+  }
+]

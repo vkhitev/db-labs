@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "checking_date": "2016-07-22",
+    "conclusion": "Висновок 1",
+    "number_section_id": 1,
+    "auditor_id": 1
+  },
+  {
+    "id": 2,
+    "checking_date": "2016-08-02",
+    "conclusion": "Висновок 2",
+    "number_section_id": 2,
+    "auditor_id": 1
+  },
+  {
+    "id": 3,
+    "checking_date": "2016-08-27",
+    "conclusion": "Висновок 3",
+    "number_section_id": 3,
+    "auditor_id": 1
+  },
+  {
+    "id": 4,
+    "checking_date": "2016-09-13",
+    "conclusion": "Висновок 4",
+    "number_section_id": 4,
+    "auditor_id": 1
+  },
+  {
+    "id": 5,
+    "checking_date": "2016-10-03",
+    "conclusion": "Висновок 5",
+    "number_section_id": 5,
+    "auditor_id": 1
+  }
+]

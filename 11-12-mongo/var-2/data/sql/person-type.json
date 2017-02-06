@@ -1,0 +1,10 @@
+[
+  {
+    "IDPersonType": 1,
+    "NamePersonType": "фізична"
+  },
+  {
+    "IDPersonType": 1,
+    "NamePersonType": "юридична"
+  }
+]

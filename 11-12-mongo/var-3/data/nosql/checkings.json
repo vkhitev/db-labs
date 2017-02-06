@@ -1,0 +1,230 @@
+[
+  {
+    "client": "Романченко Богдан",
+    "started": "2016-07-12",
+    "opened": true,
+    "sections":
+    [
+      {
+        "section": "Активи",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "1.5",
+            "checked": "2016-07-14",
+            "conclusion": "Висновок 1",
+            "auditor": "Романчук Іван"
+          },
+          {
+            "post": "1.6",
+            "checked": "2016-07-18",
+            "conclusion": "Висновок 2",
+            "auditor": "Клименко Вадим"
+          },
+          {
+            "post": "1.8",
+            "checked": "2016-07-21",
+            "conclusion": "Висновок 3",
+            "auditor": "Клименко Вадим"
+          }
+        ]
+      },
+      {
+        "section": "Зобов'язання",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "2.2",
+            "checked": "2016-08-01",
+            "conclusion": "Висновок 1",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Власний капітал",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "3.1",
+            "checked": "2016-08-23",
+            "conclusion": "Висновок 1",
+            "auditor": "Бузинний Олександр"
+          },
+          {
+            "post": "3.2",
+            "checked": "2016-08-25",
+            "conclusion": "Висновок 2",
+            "auditor": "Клименко Вадим"
+          },
+          {
+            "post": "3.4",
+            "checked": "2016-08-26",
+            "conclusion": "Висновок 3",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Фінансові результати",
+        "conclusion": null,
+        "lead": "Камишанов Володимир",
+        "posts":
+        [
+          {
+            "post": "4.1",
+            "checked": "2016-09-02",
+            "conclusion": "Висновок 1",
+            "auditor": "Бузинний Олександр"
+          },
+          {
+            "post": "4.2",
+            "checked": "2016-09-08",
+            "conclusion": "Висновок 2",
+            "auditor": "Романчук Іван"
+          },
+          {
+            "post": "4.3",
+            "checked": "2016-09-12",
+            "conclusion": "Висновок 3",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Формування аудиторського висновку",
+        "conclusion": null,
+        "lead": "Камишанов Володимир",
+        "posts":
+        [
+          {
+            "post": "5.1",
+            "checked": "2016-10-02",
+            "conclusion": "Висновок 1",
+            "auditor": "Клименко Вадим"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client": "Ботвинко Дар'я",
+    "started": "2016-07-12",
+    "opened": true,
+    "sections":
+    [
+      {
+        "section": "Активи",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "1.1",
+            "checked": "2016-07-14",
+            "conclusion": "Висновок 1",
+            "auditor": "Клименко Вадим"
+          },
+          {
+            "post": "1.2",
+            "checked": "2016-07-18",
+            "conclusion": "Висновок 2",
+            "auditor": "Романчук Іван"
+          },
+          {
+            "post": "1.3",
+            "checked": "2016-07-21",
+            "conclusion": "Висновок 3",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Зобов'язання",
+        "conclusion": null,
+        "lead": "Камишанов Володимир",
+        "posts":
+        [
+          {
+            "post": "2.1",
+            "checked": "2016-08-01",
+            "conclusion": "Висновок 1",
+            "auditor": "Бузинний Олександр"
+          }
+        ]
+      },
+      {
+        "section": "Власний капітал",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "3.2",
+            "checked": "2016-08-23",
+            "conclusion": "Висновок 1",
+            "auditor": "Бузинний Олександр"
+          },
+          {
+            "post": "3.3",
+            "checked": "2016-08-25",
+            "conclusion": "Висновок 2",
+            "auditor": "Бузинний Олександр"
+          },
+          {
+            "post": "3.4",
+            "checked": "2016-08-26",
+            "conclusion": "Висновок 3",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Фінансові результати",
+        "conclusion": null,
+        "lead": "Волошин Денис",
+        "posts":
+        [
+          {
+            "post": "4.1",
+            "checked": "2016-09-02",
+            "conclusion": "Висновок 1",
+            "auditor": "Бузинний Олександр"
+          },
+          {
+            "post": "4.2",
+            "checked": "2016-09-08",
+            "conclusion": "Висновок 2",
+            "auditor": "Клименко Вадим"
+          },
+          {
+            "post": "4.6",
+            "checked": "2016-09-12",
+            "conclusion": "Висновок 3",
+            "auditor": "Романчук Іван"
+          }
+        ]
+      },
+      {
+        "section": "Формування аудиторського висновку",
+        "conclusion": null,
+        "lead": "Камишанов Володимир",
+        "posts":
+        [
+          {
+            "post": "5.2",
+            "checked": "2016-10-02",
+            "conclusion": "Висновок 1",
+            "auditor": "Клименко Вадим"
+          }
+        ]
+      }
+    ]
+  }
+]

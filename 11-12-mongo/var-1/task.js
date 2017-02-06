@@ -131,6 +131,39 @@ function institutionsAndTotalMoneyByBanks (institutions, banks) {
   .toArray()
 }
 
+function joinKekvDescription (institutions) {
+  return institutions
+    .aggregate([{
+      $unwind: '$estimates'
+    }, {
+      $unwind: '$estimates.orders'
+    }, {
+      $lookup: {
+        from: 'kekvs',
+        localField: 'estimates.orders.kekv',
+        foreignField: 'code',
+        as: 'kekv'
+      }
+    }, {
+      $unwind: '$kekv'
+    }, {
+      $project: {
+        institution: 1,
+        estimates: {
+          year: 1,
+          limit: 1,
+          orders: {
+            data: 1,
+            money: 1,
+            bank: 1,
+            kekv: '$kekv.description'
+          }
+        }
+      }
+    }])
+    .toArray()
+}
+
 MongoClient.connect(url, (err, db) => {
   if (err) {
     return console.error(err)

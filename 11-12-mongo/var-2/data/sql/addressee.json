@@ -1,0 +1,101 @@
+[
+  {
+    "IDAddresee": 1,
+    "FullName": "Адаменко Владислав",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Ніжин",
+    "Street": "вул. Янгеля",
+    "Build": "13",
+    "Position": "громадянин",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 2,
+    "FullName": "Бевз Дмитро",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Київ",
+    "Street": "вул. Хрещатик",
+    "Build": "14",
+    "Position": "депутат",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 3,
+    "FullName": "Міністерство юстиції України",
+    "PersonTypeID": 2,
+    "Country": "Україна",
+    "City": "Київ",
+    "Street": "пр. Леся Курбаса",
+    "Build": "3",
+    "Position": "помічник депутата",
+    "ContactName": "Бондар Максим"
+  },
+  {
+    "IDAddresee": 4,
+    "FullName": "Ботвинко Дарина",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Київ",
+    "Street": "пр. Московський",
+    "Build": "7",
+    "Position": "громадянин",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 5,
+    "FullName": "Жовтун Вікторія",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Одеса",
+    "Street": "вул. Красноармійська",
+    "Build": "135/3",
+    "Position": "громадянин",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 6,
+    "FullName": "Міністерство Будівництва",
+    "PersonTypeID": 2,
+    "Country": "Україна",
+    "City": "Київ",
+    "Street": "пл. Севастопольська",
+    "Build": "124",
+    "Position": "міністр благоустрою",
+    "ContactName": "Абрамович Петро"
+  },
+  {
+    "IDAddresee": 7,
+    "FullName": "Зібров Микола",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Львів",
+    "Street": "вул. Степана Бандери",
+    "Build": "666",
+    "Position": "громадянин",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 8,
+    "FullName": "Ющенко Володимир",
+    "PersonTypeID": 1,
+    "Country": "Україна",
+    "City": "Черкаси",
+    "Street": "вул. Мала Черкаська",
+    "Build": "21/4",
+    "Position": "громадянин",
+    "ContactName": null
+  },
+  {
+    "IDAddresee": 9,
+    "FullName": "Міністерство Транспорту",
+    "PersonTypeID": 2,
+    "Country": "Україна",
+    "City": "Збараж",
+    "Street": "вул. Столична",
+    "Build": "15",
+    "Position": "секретар",
+    "ContactName": "Зубченко Антон"
+  }
+]
